@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Spring\eclipse-workspace\Hotmails\src\test\java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="ItcBackofficeAutomationTest.ItcBackofficeTest"/>
+			<item value="Testngproject1.iTCbackoffice1"/>
+			<item value="Testngproject1.iTCbackoffice"/>
+			<item value="Testngproject1.Hotmails"/>
+			<item value="Coamaven.hibernate"/>
+			<item value="NetworkFirstproject.Spring"/>
+			<item value="NetworkFirstproject.Coa"/>
+			<item value="Springprojecy.Mytheory"/>
+			<item value="Mydiaryproject.Mydiary"/>
+		</list>
+		<list key="groupId">
+			<item value="ItcBackofficeAutomationTest"/>
+			<item value="Testngproject1"/>
+			<item value="Coamaven"/>
+			<item value="NetworkFirstproject"/>
+			<item value="Springprojecy"/>
+			<item value="Mydiaryproject"/>
+		</list>
+		<list key="artifactId">
+			<item value="ItcBackofficeTest"/>
+			<item value="iTCbackoffice1"/>
+			<item value="iTCbackoffice"/>
+			<item value="Hotmails"/>
+			<item value="hibernate"/>
+			<item value="Spring"/>
+			<item value="Coa"/>
+			<item value="Mytheory"/>
+			<item value="Mydiary"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

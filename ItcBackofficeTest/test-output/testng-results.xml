@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="56" passed="55" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-06T22:37:15 IST" name="Default suite" finished-at="2024-08-06T22:37:42 IST" duration-ms="26891">
+    <groups>
+    </groups>
+    <test started-at="2024-08-06T22:37:15 IST" name="Default test" finished-at="2024-08-06T22:37:42 IST" duration-ms="26891">
+      <class name="com.itc.qa.testcases.ExtensionPageTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:04 IST" name="setup" finished-at="2024-08-06T22:37:15 IST" duration-ms="11212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTex()[pri:1, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:15 IST" name="verifyTex" finished-at="2024-08-06T22:37:21 IST" duration-ms="5163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTex -->
+        <test-method signature="verifyText()[pri:2, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText" finished-at="2024-08-06T22:37:21 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText -->
+        <test-method signature="verifyText1()[pri:3, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText1" finished-at="2024-08-06T22:37:21 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText1 -->
+        <test-method signature="verifyText2()[pri:4, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText2" finished-at="2024-08-06T22:37:21 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText2 -->
+        <test-method signature="verifyText3()[pri:5, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText3" finished-at="2024-08-06T22:37:21 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText3 -->
+        <test-method signature="verifyText4()[pri:6, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText4" finished-at="2024-08-06T22:37:21 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText4 -->
+        <test-method signature="verifyText5()[pri:7, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText5" finished-at="2024-08-06T22:37:21 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText5 -->
+        <test-method signature="verifyText6()[pri:8, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText6" finished-at="2024-08-06T22:37:21 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText6 -->
+        <test-method signature="verifyText7()[pri:9, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText7" finished-at="2024-08-06T22:37:21 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText7 -->
+        <test-method signature="verifyText8()[pri:10, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText8" finished-at="2024-08-06T22:37:21 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText8 -->
+        <test-method signature="verifyText9()[pri:11, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText9" finished-at="2024-08-06T22:37:21 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText9 -->
+        <test-method signature="verifyText10()[pri:12, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText10" finished-at="2024-08-06T22:37:21 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText10 -->
+        <test-method signature="verifyText11()[pri:13, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyText11" finished-at="2024-08-06T22:37:21 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText11 -->
+        <test-method signature="verifyValidationofExtension()[pri:14, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyValidationofExtension" finished-at="2024-08-06T22:37:21 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidationofExtension -->
+        <test-method signature="verifyValidationofExtension1()[pri:15, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyValidationofExtension1" finished-at="2024-08-06T22:37:21 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidationofExtension1 -->
+        <test-method signature="verifyEnterTextIntoTextBox()[pri:16, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="verifyEnterTextIntoTextBox" finished-at="2024-08-06T22:37:21 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEnterTextIntoTextBox -->
+        <test-method signature="extensionTexte()[pri:17, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="extensionTexte" finished-at="2024-08-06T22:37:21 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extensionTexte -->
+        <test-method signature="radioButtonInfo()[pri:18, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="radioButtonInfo" finished-at="2024-08-06T22:37:21 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButtonInfo -->
+        <test-method signature="infomationalText()[pri:19, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="infomationalText" finished-at="2024-08-06T22:37:21 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- infomationalText -->
+        <test-method signature="infomationalToolTip()[pri:20, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="infomationalToolTip" finished-at="2024-08-06T22:37:21 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- infomationalToolTip -->
+        <test-method signature="infomationalToolTipTextHead()[pri:21, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:21 IST" name="infomationalToolTipTextHead" finished-at="2024-08-06T22:37:23 IST" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- infomationalToolTipTextHead -->
+        <test-method signature="infomationalToolTipTextDescription()[pri:22, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:23 IST" name="infomationalToolTipTextDescription" finished-at="2024-08-06T22:37:26 IST" duration-ms="2102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- infomationalToolTipTextDescription -->
+        <test-method signature="radioButtonMassageTaking()[pri:23, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:26 IST" name="radioButtonMassageTaking" finished-at="2024-08-06T22:37:26 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButtonMassageTaking -->
+        <test-method signature="messageTakingText()[pri:24, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:26 IST" name="messageTakingText" finished-at="2024-08-06T22:37:26 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageTakingText -->
+        <test-method signature="messageTakingToolTip()[pri:25, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:26 IST" name="messageTakingToolTip" finished-at="2024-08-06T22:37:26 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageTakingToolTip -->
+        <test-method signature="messageTakingToolTipTextHead()[pri:26, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:26 IST" name="messageTakingToolTipTextHead" finished-at="2024-08-06T22:37:28 IST" duration-ms="2078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageTakingToolTipTextHead -->
+        <test-method signature="messageTakingToolTipTextDescription()[pri:27, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:28 IST" name="messageTakingToolTipTextDescription" finished-at="2024-08-06T22:37:30 IST" duration-ms="2085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageTakingToolTipTextDescription -->
+        <test-method signature="radioButtonPBxExts()[pri:28, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:30 IST" name="radioButtonPBxExts" finished-at="2024-08-06T22:37:30 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButtonPBxExts -->
+        <test-method signature="pBXTextss()[pri:29, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:30 IST" name="pBXTextss" finished-at="2024-08-06T22:37:30 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pBXTextss -->
+        <test-method signature="pBXinfoss()[pri:30, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:30 IST" name="pBXinfoss" finished-at="2024-08-06T22:37:30 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pBXinfoss -->
+        <test-method signature="pBXToolTipss()[pri:31, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:30 IST" name="pBXToolTipss" finished-at="2024-08-06T22:37:30 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pBXToolTipss -->
+        <test-method signature="pBXToolTipTextHeads()[pri:32, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:30 IST" name="pBXToolTipTextHeads" finished-at="2024-08-06T22:37:32 IST" duration-ms="2070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pBXToolTipTextHeads -->
+        <test-method signature="pBXToolTipTextDescriptions()[pri:33, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:32 IST" name="pBXToolTipTextDescriptions" finished-at="2024-08-06T22:37:34 IST" duration-ms="2077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pBXToolTipTextDescriptions -->
+        <test-method signature="messageTakingexts()[pri:34, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:34 IST" name="messageTakingexts" finished-at="2024-08-06T22:37:34 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageTakingexts -->
+        <test-method signature="informationalexts()[pri:35, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:34 IST" name="informationalexts" finished-at="2024-08-06T22:37:34 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- informationalexts -->
+        <test-method signature="radioButtonACDexts()[pri:36, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:34 IST" name="radioButtonACDexts" finished-at="2024-08-06T22:37:34 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButtonACDexts -->
+        <test-method signature="ACDTextss()[pri:37, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:34 IST" name="ACDTextss" finished-at="2024-08-06T22:37:34 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ACDTextss -->
+        <test-method signature="ACDinfo()[pri:38, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:34 IST" name="ACDinfo" finished-at="2024-08-06T22:37:34 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ACDinfo -->
+        <test-method signature="ACDToolTips()[pri:39, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:34 IST" name="ACDToolTips" finished-at="2024-08-06T22:37:34 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ACDToolTips -->
+        <test-method signature="ACDToolTipTextHead()[pri:40, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:34 IST" name="ACDToolTipTextHead" finished-at="2024-08-06T22:37:36 IST" duration-ms="2075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ACDToolTipTextHead -->
+        <test-method signature="ACDToolTipTextDescriptions()[pri:41, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:36 IST" name="ACDToolTipTextDescriptions" finished-at="2024-08-06T22:37:38 IST" duration-ms="2071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ACDToolTipTextDescriptions -->
+        <test-method signature="displayNameTextforInformationalExt()[pri:42, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:38 IST" name="displayNameTextforInformationalExt" finished-at="2024-08-06T22:37:38 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayNameTextforInformationalExt -->
+        <test-method signature="displayNameTextBoxforInformationalExt()[pri:43, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:38 IST" name="displayNameTextBoxforInformationalExt" finished-at="2024-08-06T22:37:38 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayNameTextBoxforInformationalExt -->
+        <test-method signature="displayNameTextBoxTooltip()[pri:44, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:38 IST" name="displayNameTextBoxTooltip" finished-at="2024-08-06T22:37:39 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayNameTextBoxTooltip -->
+        <test-method signature="InformationTooltipInfoforDisplayNameTextBoxs()[pri:45, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="InformationTooltipInfoforDisplayNameTextBoxs" finished-at="2024-08-06T22:37:39 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InformationTooltipInfoforDisplayNameTextBoxs -->
+        <test-method signature="enterTextondisplayNameTextBox()[pri:46, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="enterTextondisplayNameTextBox" finished-at="2024-08-06T22:37:39 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterTextondisplayNameTextBox -->
+        <test-method signature="descriptionTextforInformational()[pri:47, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="descriptionTextforInformational" finished-at="2024-08-06T22:37:39 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- descriptionTextforInformational -->
+        <test-method signature="descriptionTextBox()[pri:48, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="descriptionTextBox" finished-at="2024-08-06T22:37:39 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- descriptionTextBox -->
+        <test-method signature="descriptionTextBoxTextArea()[pri:49, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="descriptionTextBoxTextArea" finished-at="2024-08-06T22:37:39 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- descriptionTextBoxTextArea -->
+        <test-method signature="enterTextIndescriptionTextBox()[pri:50, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="enterTextIndescriptionTextBox" finished-at="2024-08-06T22:37:39 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterTextIndescriptionTextBox -->
+        <test-method signature="textBackTextforInformational()[pri:51, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="textBackTextforInformational" finished-at="2024-08-06T22:37:39 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textBackTextforInformational -->
+        <test-method signature="textBackToggleKey()[pri:52, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="textBackToggleKey" finished-at="2024-08-06T22:37:39 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textBackToggleKey -->
+        <test-method signature="textBackToolTip()[pri:53, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="textBackToolTip" finished-at="2024-08-06T22:37:39 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textBackToolTip -->
+        <test-method signature="testScrollToBottom()[pri:54, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="testScrollToBottom" finished-at="2024-08-06T22:37:39 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScrollToBottom -->
+        <test-method signature="clickTextBackToolTip()[pri:55, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="clickTextBackToolTip" finished-at="2024-08-06T22:37:39 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTextBackToolTip -->
+        <test-method signature="TclickOnextBackToggleKey()[pri:56, instance:com.itc.qa.testcases.ExtensionPageTestCases@479d31f3]" started-at="2024-08-06T22:37:39 IST" name="TclickOnextBackToggleKey" finished-at="2024-08-06T22:37:42 IST" duration-ms="3089" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <label class="btn btn-default active toggle-off">...</label> is not clickable at point (661, 492). Other element would receive the click: <span class="Rdo-slider"></span>
+  (Session info: chrome=127.0.6533.89)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [41dec3be9034ed2200a9ea970e593d9a, clickElement {id=f.9FC13703A455481055537E6358BA543F.d.3A7FE4F655C8B699778A3234FE24F876.e.338}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.89, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SINGAN~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60616}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60616/devtoo..., se:cdpVersion: 127.0.6533.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (41dec3be9034ed2200a9ea970e593d9a)] -> xpath: //label[contains(text(),'Off')]]
+Session ID: 41dec3be9034ed2200a9ea970e593d9a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <label class="btn btn-default active toggle-off">...</label> is not clickable at point (661, 492). Other element would receive the click: <span class="Rdo-slider"></span>
+  (Session info: chrome=127.0.6533.89)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [41dec3be9034ed2200a9ea970e593d9a, clickElement {id=f.9FC13703A455481055537E6358BA543F.d.3A7FE4F655C8B699778A3234FE24F876.e.338}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.89, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SINGAN~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60616}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60616/devtoo..., se:cdpVersion: 127.0.6533.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (41dec3be9034ed2200a9ea970e593d9a)] -> xpath: //label[contains(text(),'Off')]]
+Session ID: 41dec3be9034ed2200a9ea970e593d9a
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy12.click(Unknown Source)
+at com.itc.qa.pages.ExtensionPage.TclickOnextBackToggleKey(ExtensionPage.java:127)
+at com.itc.qa.testcases.ExtensionPageTestCases.TclickOnextBackToggleKey(ExtensionPageTestCases.java:357)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TclickOnextBackToggleKey -->
+      </class> <!-- com.itc.qa.testcases.ExtensionPageTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
