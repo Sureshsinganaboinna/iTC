@@ -3,16 +3,24 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Testngproject1.iTCbackoffice1.NewTest">
+      <class name="Testngproject1.iTCbackoffice1.ToolsFunctionality">
         <methods>
-          <include name="testContactsSectionPage"/>
-          <include name="setup"/>
-          <include name="cellPhoneNotification"/>
+          <include name="callForwarding"/>
+          <include name="tearDown"/>
+          <include name="someOneCallsDropDown"/>
+          <include name="billing"/>
           <include name="testImportandExportfunctionality"/>
+          <include name="callforwardDefaultAudio"/>
+          <include name="textToSpeechafterConverted"/>
+          <include name="callForwardRecordViaPhoneUI"/>
+          <include name="testCasesforuploadMp3Wav"/>
+          <include name="testImportandExportUI"/>
           <include name="afterClass"/>
-          <include name="testUIofAddNewTextCcode"/>
+          <include name="displayTest"/>
+          <include name="setup"/>
+          <include name="testContactsSectionPage"/>
         </methods>
-      </class> <!-- Testngproject1.iTCbackoffice1.NewTest -->
+      </class> <!-- Testngproject1.iTCbackoffice1.ToolsFunctionality -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

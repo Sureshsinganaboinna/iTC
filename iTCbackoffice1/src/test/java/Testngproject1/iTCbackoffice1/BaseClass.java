@@ -27,10 +27,12 @@ public class BaseClass {
     	  ChromeOptions options = new ChromeOptions();
           options.addArguments("--use-fake-ui-for-media-stream");
           options.addArguments("--disable-notifications");
-          System.setProperty("webdriver.chrome.driver", "C:\\Users\\Singanaboina Suresh\\Downloads\\chromedriver-win64 (4)\\chromedriver-win64\\chromedriver.exe");
+         System.setProperty("webdriver.chrome.driver", "C:\\Users\\Singanaboina Suresh\\Downloads\\chromedriver-win64 (5)\\chromedriver-win64\\chromedriver.exe");
 		    //  driver = new ChromeDriver();
 			// WebDriverManager.chromedriver().setup();
-		      driver = new ChromeDriver(options);
+//          WebDriverManager.chromedriver().setup();
+//          driver = new ChromeDriver(options);
+	      driver = new ChromeDriver(options);
 		 driver.manage().window().maximize();
 		 driver.get("https://www.coasecure.com/");
 	      driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
